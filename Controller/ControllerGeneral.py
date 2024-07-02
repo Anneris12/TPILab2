@@ -28,7 +28,7 @@ class ControllerGeneral:
         op=self.vista.eleccionMenuPrincipal()
         while (op!=0):
             if (op==1):
-                self.controllerMascota.listaMascotasActivas()
+                self.controllerGestionMascotas.iniciar()
             elif (op==2):
                 pass
             elif (op==3):
