@@ -1,0 +1,2 @@
+class ViewVacuna:
+    pass

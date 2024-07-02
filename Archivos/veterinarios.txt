@@ -1,0 +1,5 @@
+alberto,truchi,30265412,albertgg@gmail.com,3534878151,eeuu121,1,tiene,21
+rita,alborano,35434321,rita454@gmail.com,353-4874-402,reconquista1010,1,tiene,10
+kiko,rodriguez,985212021,kikito@gmail.com,3536214102,pasteur123,1,tiene,11
+mirtha,legrand,05412145,mirta@gmail.com,44549568,casa-rosada,1,tiene,1
+cacho,milico,15441412,cachitocachon@gmail.com,35342144101,turk22,1,tiene,7

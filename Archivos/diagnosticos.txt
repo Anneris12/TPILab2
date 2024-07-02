@@ -1,0 +1,3 @@
+10/4/24,parasitos,positivo,leve,Desparasitación,comida,neron,1,desparacitacion
+12/5/24,infeccion-pulmon,negativo,nula,infecciones-respiratorias,enfermedad,jorge,1
+13/6/24,hongos,positivo,grave,antifúngico,higiene,kaatanira,1

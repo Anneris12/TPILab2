@@ -1,0 +1,2 @@
+class ViewDiagnostico:
+    pass

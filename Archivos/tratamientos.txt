@@ -1,0 +1,3 @@
+desparasitación,Fenbendazol,3-meses,1-por-mes,ninguno,1
+infecciones-respiratorias,Clindamicina,1-semana,1-ml-cada-12-horas,vómitos-diarrea,1
+antifúngico,Fluconazol,14-días,2-ml-cada-24-horas,irritación,1

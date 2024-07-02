@@ -1,0 +1,4 @@
+VacunaRabia,Prevención de la rabia,1 año,1 dosis,2024-12-31,50,100,001
+VacunaParvovirus,Prevención de la parvovirosis,3 años,2 dosis (refuerzo anual),2024-11-30,70,80,002
+VacunaMoquillo,Prevención del moquillo canino,2 años,1 dosis,2024-10-31,60,120,003
+VacunaLeptospirosis,Prevención de la leptospirosis,1 año,2 dosis (refuerzo a las 3-4 semanas),2024-09-30,65,90,004

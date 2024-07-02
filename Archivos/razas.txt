@@ -1,0 +1,25 @@
+1,Labrador Retriever,Canada,Perro,0
+2,Pastor Alemán,Alemania,Perro,1
+3,Golden Retriever,Escocia,Perro,0
+4,Bulldog Francés,Francia,Perro,0
+5,Beagle,Reino Unido,Perro,0
+6,Caniche,Alemania,Perro,1
+7,Chihuahua,Mexico,Perro,1
+8,Husky Siberiano,Siberia,Perro,1
+9,Boxer,Alemania,Perro,1
+10,Salchicha,Alemania,Perro,1
+11,Siamés,Tailandia,Gato,1
+12,Persa,Iran,Gato,0
+13,Maine Coon,EEUU,Gato,0
+14,Bengala,EEUU,Gato,0
+15,Sphynx,Canada,Gato,1
+16,Ragdoll,EEUU,Gato,0
+17,British Shorthair,Reino Unido,Gato,0
+18,Abisinio,Etiopia,Gato,0
+19,Scottish Fold,Escocia,Gato,1
+20,Oriental,Reino Unido,Gato,1
+21,Rex,Francia,Conejo,1
+22,Conejo Enano,Alemania,Conejo,0
+23,Californiano,EEUU,Conejo,0
+24,Perro Callejero,Local,Perro,1
+25,Gato Callejero,Local,Gato,0
